@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0204-count-primes) |
 | [0349-intersection-of-two-arrays](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## Hash Table
@@ -35,8 +36,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0204-count-primes) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0048-rotate-image) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
