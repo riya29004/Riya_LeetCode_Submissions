@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0048-rotate-image) |
 | [0349-intersection-of-two-arrays](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
