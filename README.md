@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0224-basic-calculator) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
