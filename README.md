@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0347-top-k-frequent-elements) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0227-basic-calculator-ii) |
 ## Recursion
@@ -116,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
