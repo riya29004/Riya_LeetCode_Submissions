@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0125-valid-palindrome) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0227-basic-calculator-ii) |
@@ -122,9 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
