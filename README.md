@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [1045-customers-who-bought-all-products](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/1045-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
