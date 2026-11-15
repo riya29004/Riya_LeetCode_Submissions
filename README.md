@@ -139,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0196-delete-duplicate-emails) |
 | [1045-customers-who-bought-all-products](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/1045-customers-who-bought-all-products) |
+| [1484-group-sold-products-by-the-date](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
