@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Divide and Conquer
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/1045-customers-who-bought-all-products) |
 | [1321-restaurant-growth](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/1321-restaurant-growth) |
 | [1484-group-sold-products-by-the-date](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/1484-group-sold-products-by-the-date) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
