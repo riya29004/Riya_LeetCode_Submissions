@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1512-number-of-good-pairs](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/riya29004/Riya_LeetCode_Submissions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |
